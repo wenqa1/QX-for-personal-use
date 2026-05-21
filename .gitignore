@@ -1,0 +1,25 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Windows
+$RECYCLE.BIN/
+*.lnk
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.~*
+
+# Project specific
+*.bak
+*.log

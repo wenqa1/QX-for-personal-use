@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C \"e:/lianxi/QX for personal use\" ls-files --others --ignored --exclude-standard)",
+      "Bash(dir /b \"e:\\\\lianxi\\\\QX for personal use\")",
+      "Bash(git -C \"e:/lianxi/QX for personal use\" ls-files --cached \".vscode/\")",
+      "Bash(git -C \"e:/lianxi/QX for personal use\" rm --cached -r \".vscode/\")",
+      "Bash(git -C \"e:/lianxi/QX for personal use\" status)"
+    ]
+  }
+}
